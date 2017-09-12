@@ -1,4 +1,4 @@
-/***Marcela Echavarria
+/***Marcela Echavarrias
 **4-19-17
 **A Class that returns the amount of money in the machine, the monetary
 **value of the snacks in the machine, the number of empty slots in the machine,
